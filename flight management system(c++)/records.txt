@@ -1,0 +1,10 @@
+__________TATA Airlines____________
+__________Tickets_________________
+__________________________________
+Customer Id: 101
+Customer Name: karthik
+Customer Gender: m
+	Description
+
+Destinatinon: USA
+Flight cost: 7500
